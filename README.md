@@ -192,4 +192,3 @@ Além disso, algumas análises de médias dependem dos modelos selecionados em c
 A etapa de modelagem e análise em SQL está concluída, com as 22 consultas organizadas por tema e documentadas neste README.
 
 O dashboard no Power BI está em construção: a página de Visão Geral já está finalizada, com cartões de indicadores-chave, gráfico de evolução por geração e tabela dos modelos mais potentes. As demais páginas temáticas (Potência e Torque, Desempenho, Motorização e Tração, Famílias) estão em desenvolvimento, seguindo a mesma estrutura de filtros e identidade visual já definida.
-esse readme está bom?
