@@ -8,7 +8,7 @@ A partir de 67 registros e 7 perguntas de negócio, o projeto explora
 características como potência, torque, peso, aceleração, velocidade máxima, 
 motorização, tração e a evolução entre fases de cada geração.
 
-## Pergunta central
+## Pergunta Central
 
 Como o Porsche 911 evoluiu tecnicamente entre as gerações 997, 991 e 992, 
 e quais mudanças mais impactaram seu desempenho, segundo os dados deste dataset?
